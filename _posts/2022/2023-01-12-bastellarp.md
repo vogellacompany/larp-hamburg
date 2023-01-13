@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Anmelden für 15. Januar LARP-Bastel-Workshop (Basteln, Kampf, Waffenpflege) und 18. Februar LARP – jetzt noch Frühbucher-Rabatt nutzen
 "
 categories: bastellarp
