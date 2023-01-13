@@ -1,0 +1,11 @@
+
+
+To use this repository:
+
+= Install
+
+https://jekyllrb.com/docs/installation/ubuntu/
+
+Um die Webseite anzuzeigen, muss der folgende Befehl eingegeben im Verzeichnis ~/git/larp-hamburg werden:
+
+bundle exec jekyll serve
