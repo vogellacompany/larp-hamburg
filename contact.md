@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Registration
 permalink: /registration/
 ---

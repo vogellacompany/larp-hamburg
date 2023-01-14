@@ -1,11 +1,16 @@
 ---
 layout: home
-image: asserts/images/header.jpg
+image: /assets/images/header.jpg
 jekyll-paginate: true
+header:
+  overlay_image: /assets/images/header.jpg
+  caption: "Photo credit: [*Unsplash*](https://unsplash.com)"
+  actions:
+    - label: "Anmeldung"
+      url: "/anmeldung"
+
 ---
 
-
-![Example](/asserts/images/background.jpg)
 
 
 ## Was sind wir? Was machen wir für die Spieler?

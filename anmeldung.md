@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: single
 title: Anmeldung
-permalink: /Anmeldung/
+permalink: /anmeldung/
 ---
 
 Du bist gesucht um das Königreich von Baradur zu beschützen.  

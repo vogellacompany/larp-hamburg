@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: über uns 
 permalink: /ueberuns/
 ---
