@@ -8,4 +8,12 @@ https://jekyllrb.com/docs/installation/ubuntu/
 
 Um die Webseite anzuzeigen, muss der folgende Befehl eingegeben im Verzeichnis ~/git/larp-hamburg werden:
 
+Dazu öffnet man ein Terminal   (strg+shift+t)
+
+
+cd ~/git/larp-hamburg
 bundle exec jekyll serve
+
+Dann läuft die Webseite unter dieser URL
+
+http://127.0.0.1:4000/

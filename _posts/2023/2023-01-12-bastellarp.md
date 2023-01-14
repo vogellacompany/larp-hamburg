@@ -2,7 +2,7 @@
 layout: posts
 title:  "Anmelden für 15. Januar LARP-Bastel-Workshop (Basteln, Kampf, Waffenpflege) und 18. Februar LARP – jetzt noch Frühbucher-Rabatt nutzen
 "
-categories: bastellarp
+categories: events
 ---
 Bis 30.November gibt es Frühbucher-Rabatt für den Workshop am 15.01.23 (8€ bzw. 18 €), bis 31.12.22 10, danach 15 €.
 

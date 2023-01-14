@@ -29,12 +29,13 @@ Das Spiel findet draußen in der Natur statt. Man lernt den Umgang mit Gruppen, 
 
 ## Die nächsten Termine:
 
-* 15\. oder 22. Januar (So) 2023: LARP-Bastel-Workshop im Haus der Jugend Niendorf
 
-* 18\. Februar 2023 (Sa) 13.00 Uhr: Chroniken von Baradur – Teil 16
+* [Sonntag 15\. Januar 2023: LARP-Bastel-Workshop im Haus der Jugend Niendorf](./events/2023/01/12/bastellarp)
+
+* {18\. Februar 2023 (Sa) 13.00 Uhr: Chroniken von Baradur – Teil 16]
 
 * 3\. Juni 2023 (Sa) 14.00 Uhr: Chroniken von Baradur – Teil 17 (Übernachtungs-LARP)
 
-* s16\. September 2023 (Sa) 14.00 Uhr: Chroniken von Baradur – Teil 184. November 2023 (Sa) 13.00 Uhr: Chroniken von Baradur – Teil 16
+* 16\. September 2023 (Sa) 14.00 Uhr: Chroniken von Baradur – Teil 184. November 2023 (Sa) 13.00 Uhr: Chroniken von Baradur – Teil 16
 
 

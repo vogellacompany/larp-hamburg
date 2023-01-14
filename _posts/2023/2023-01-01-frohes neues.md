@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Auf ein larpiges 2023"
 categories: 2023larpes
 ---
