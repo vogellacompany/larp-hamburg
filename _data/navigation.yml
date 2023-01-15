@@ -11,6 +11,8 @@ main:
     url: /photos/
   - title: "Orden"
     url: /orden/
+  - title: "Kontakt"
+    url: /contact/
   - title: "Impressum"
     url: /impressum/
 

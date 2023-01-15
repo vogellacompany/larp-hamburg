@@ -29,7 +29,7 @@ Um Dich für eines der nächsten Events anzumelden, schicken eine Email an <larp
 # Was brauche ich?
 
 Überleg Dir welchen Charakter Du spielen möchtest? 
-Kämpfer, Elf, Zwerg, Heiler, Räuber, Forscher, oder vielleicht ein geheimnisvolles Wesen? 
+Kämpfer, Elf, Zwerg, Ork, Heiler, Räuber, Forscher, oder vielleicht ein geheimnisvolles Wesen? 
 
 Unkostenbeitrag je nach Datum der Anmeldung zwischen 18 und 22 €.
 
