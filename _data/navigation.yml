@@ -9,10 +9,10 @@ main:
     url: /regeln/
   - title: "Photos"
     url: /photos/
-  - title: "Orden"
-    url: /orden/
   - title: "Kontakt"
     url: /contact/
+  - title: "Gruppen"
+    url: /gruppen/
   - title: "Impressum"
     url: /impressum/
 

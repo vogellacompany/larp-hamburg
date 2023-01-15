@@ -2,6 +2,8 @@
 layout: single
 title:  "Auf ein larpiges 2023"
 categories: events
+header:
+  teaser: /assets/images/homepage/dorf.jpeg
 ---
 Liebe LARP-Spieler, liebe Eltern,
 
