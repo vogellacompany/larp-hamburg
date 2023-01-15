@@ -3,7 +3,7 @@ layout: single
 title: Gruppen im Larp
 permalink: /gruppen/
 toc: true
-toc_label: Übersicht
+toc_label: Unsere Gruppen im Spiel
 toc_sticky: true
 ---
 
@@ -50,7 +50,7 @@ Dies sind ein paar unserer Gebete:
 > Alle die nicht knien vor der Macht der Sieben
 > werden vertrieben
 
-Alltagsgebet
+#### Alltagsgebet
 
 > Lang leben die Sieben 
 >  Denn heute werden wir siegen.
@@ -70,7 +70,8 @@ Sie bekommen Angst und laufen weg
 >  das mich nichts frühzeitig dahinraft
 >  Gebe mir Deine göttliche Gunst und Deinen Segen
 >  Denn nur für Dich und Deinen Willen, werde ich mich bewegen
->  (Leben + 1 Schaden + 1 Mana +1 Rüstung +1)
+
+Leben + 1 Schaden + 1 Mana +1 Rüstung +1
 
 ### ELEMENTAR GEBETE
 
@@ -78,59 +79,68 @@ Sie bekommen Angst und laufen weg
  
 > Hülle diesen Frevler in deine Flammen ein 
 > Er soll brennen wie ein fettes Schwein
-> (Feuerball)
+
+Feuerball
 
 
 #### Eis Gebete
 
-Eis soll dich umfassen 
-Jenefa wird dich nicht aus ihren Armen lassen
-(Eisgefängnis)
+> Eis soll dich umfassen 
+> Jenefa wird dich nicht aus ihren Armen lassen
 
-Erstarren sollen deine Glieder
-Wärme spürst nie wieder
-(Eis starre)
+Eisgefängnis
+
+> Erstarren sollen deine Glieder
+> Wärme spürst nie wieder
+
+Eis starre
 
 
 #### Wasser Gebete
 
 > Wasser ergieße sich in deine Kehle
 > Jenefa nehme deine Seele
-> (Rekrutierung)
+
+Rekrutierung
 
 > Sauber sollst du sein 
 > nicht mehr stinken wie ein Schwein
-> (Zustand Reinigung)
+
+Zustand Reinigung
 
 > wenn dich diese Kugel trifft 
 > bisst du wie ein kleiner fisch
-> (Verwandelt in Fisch)
+
+Verwandelt in Fisch
 
 #### Wind Gebete
 
 > Soll der Wind dich von deinen Füßen reißen
 > und dich umschmeißen
-> (Windstoß)
+
+Windstoß
 
 ### SCHATTEN\CHAOS Gebete
 
 > Ein Schatten der sich über dich legt
 > bewirkt, dass sich für dich nichts mehr bewegt
-> (Blindheit)
+
+Blindheit
  
 > Von hinten werde ich dich ergreifen
 > und dich in den Schatten schleifen
-> (betäubung)
+
+Betäubung
  
 > Soll das Chaos dich auf eine andere Art und Weise schlagen
 > dich soll eine Krankheit plagen
-> (X Person wird krank)
+
+X Person wird krank
  
 > Kush sammle deine Kräfte um deine Kinder zurück zu holen
-> 
 > schicke sie zurück ins Land des Feuers, des Todes und der schwarzen Kohlen
  
-> (Dämonen bann)
+Dämonenbann
 
 ### NATUR\LIEBES GEBETE
 
@@ -149,55 +159,66 @@ Steinhagel
 
 3 ausgewählte Opfer dürfen nurnoch humpeln.
  
-> Soll  der Tiger dich reißen\
-> und dir viele Wunden beißen\
-> (Ziel erhält ein Schaden)\
+> Soll  der Tiger dich reißen
+> und dir viele Wunden beißen
 
-> Bei der Macht der Sieben\ 
-> du wirst ihn Lieben\
-> (bestimme ein Paar ab jetzt dürfen sie sich nicht angreifen)\
+Ziel erhält ein Schaden
+
+> Bei der Macht der Sieben 
+> du wirst ihn Lieben
+
+Bestimme ein Paar ab jetzt dürfen sie sich nicht angreifen
  
-> Liebe war noch nie dein Ding\
-> aber jetzt schenkst du jeden deinen Ring\ 
-> (Du findest für eine kurze alles hübsch)\
+> Liebe war noch nie dein Ding
+> aber jetzt schenkst du jeden deinen Ring
+
+Du findest für eine kurze alles hübsch
 
 ### GLEICHGEWICHT\ORDNUNGS GEBETE\
  
 > Böse Macht wird sich lösen 
 > ich erlöse dich von dem Bösen
-> (Zauber\Gebet lösen)
+
+Zauber\Gebet lösen
 
 > Aufräumen soll sich Dein Zimmer
 > sonst wird es immer schlimmer
-> (Ort der Rast wird sauber und ordentlich)
+
+Ort der Rast wird sauber und ordentlich
 
 ### KAMPF\TODES GEBETE
 
 > Die Speere werden dich durchbohren
 > wie Aggresoren
-> (Ziel erleidet viel Schaden)
+
+Ziel erleidet viel Schaden
  
 > Pfeile werden dich aufspießen
 > und dein Blut wird in Strömen fließen
-> (Verleid Effekt Blutend)
+
+Verleid Effekt Blutend
  
 > Gib meiner Klinge extra schärfe 
 > wenn ich mich gegen deine Feine werfe
-> (+1 Schaden)
+
++1 Schaden
  
 > Der Morast soll dich packen 
 > und dich in seine Tiefen lassen
-> (Du wirst verrückt weil du die Hölle gesehen hast)
+
+Du wirst verrückt weil du die Hölle gesehen hast
 
 ### HEILUNG\ERFRISCHUNGS GEBETE
 
 > Von den Toten sollst du dich erheben 
 > denn NINA schenkte dir Göttliches Leben
-(Ermöglicht widerauferstehung)
+
+Ermöglicht Wiederauferstehung
 
 > deine Wunden sollen sich schließen
 > du sollst die Heilung der Göttin genießen
-(Heilung)
+
+Heilung
 
 # Die Forscher
 
