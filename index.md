@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 image: /assets/images/header.jpg
 jekyll-paginate: true
 header:
@@ -8,39 +8,54 @@ header:
   actions:
     - label: "Anmeldung"
       url: "/anmeldung"
-
+    - label: "Termine"
+      url: "/events"
+#sidebar:  
+#  - title: "Termine"
+#    image: assets/images/2022-09-18/2022-09-18seilziehen.jpeg
+#    image_alt: "image"
+#    text: "Some text here."
+#  - title: "Another Title"
+#    text: "More text here."
+entries_layout: grid
+classes: wide
+permalink: /
 ---
 
 
 
 ## Was sind wir? Was machen wir für die Spieler?
  
-Wir sind eine Gruppe Jugendlicher und ein paar Erwachsener, die LARPs (Spiele wie damals Räuber und Gendarm, Cowboys und Indianer – allerdings im Fantasy- und Mittelalter-Ambiente spielen, ähnlich _Herr der Ringe_. 
-Viele Kinder kennen die Indoor-Variante im _Drachenlabyrinth_ oder in der _Goblinstadt_. So ein Spiel organisieren wir für draußen (es dauert vier Stunden, ist inhaltlich freier als die Spiele von Goblinstadt/Drachenlabyrinth, und günstiger. Snacks und Getränke gibt es auch – plus Lagerfeuer.
+Wir sind eine Gruppe Jugendlicher und ein paar Erwachsener, die LARPs (Live Action Roll Play) spielen. 
+Hierbei spielen wir im  Fantasy- und Mittelalter-Ambiente, ähnlich _Herr der Ringe_, sind also Krieger, Zauberer, Elfen, Orks und vieles mehr.
+In Gilden oder alleine wird mit sicheren Waffen gekämpft.
 
-Das Besondere an unseren LARPs ist, dass diese weitüberwiegend von Jugendlichen geplant werden. Es besteht die Möglichkeit sich daran zu beteiligen.
+Viele von Euch kennen die Indoor-Variante im _Drachenlabyrinth_ oder in der _Goblinstadt_. 
+So ein Spiel organisieren wir für draußen in eimem großen Gelände mit eigenem Dorf.
 
-Dies ist eine private Homepage (näheres: siehe Impressum).
+![Example](/assets/images/homepage/dorf.jpeg)
 
-## Was brauche ich um mitzuspielen?
-Neugier, Spaß am Spiel in Gruppen, eine Anmeldung (Unkostenbeitrag je nach Datum der Anmeldung zwischen 18 und 22 €).
+Es dauert meist vier Stunden und ist inhaltlich frei, ihr macht was Ihr wollt, solange es keinen stört oder verletzt.
 
-Ein Latex-Schwert wäre hilfreich und einen dunklen Umhang/Kleidung (kann ggf. auch ausgeliehen werden) und festes Schuhwerk. Vorerfahrung ist nicht erforderlich.
+Es gibt aber bei jedem Ereignis eine Geschichte, die wir vorbereiten und ihr mitspielen könnt.
 
-LARP Spiel dient Gesundheit, Kreativität, Umwelt, Sozialverhalten, ist pädagogisch wertvoll und macht Spaß
-Das Spiel findet draußen in der Natur statt. Man lernt den Umgang mit Gruppen, kann verschiedene Rollen ausprobieren, muss kreativ sein – daher gibt es in Dänemark Schulen, die LARP als Unterrichtsfach haben. Am wichtigsten ist aber der Spaß am Spiel.
+![Example](/assets/images/homepage/story.jpg)
 
+Snacks und Getränke gibt es auch – plus Lagerfeuer.
 
+Mehr Infos unter [warum sollte ich LARP spielen](/gruende-larp)
 
 ## Die nächsten Termine:
 
+Die nächsten Termine findet du unter [Termine](/anmeldung).
 
-* [Sonntag 15\. Januar 2023: LARP-Bastel-Workshop im Haus der Jugend Niendorf](./events/2023/01/12/bastellarp)
+## Was brauche ich um mitzuspielen?
 
-* {18\. Februar 2023 (Sa) 13.00 Uhr: Chroniken von Baradur – Teil 16]
+Neugier, Spaß am Spiel in Gruppen und eine [Anmeldung](/anmeldung).
+Da steht auch, was Du so [brauchst](/anmeldung/#was-brauche-ich).
 
-* 3\. Juni 2023 (Sa) 14.00 Uhr: Chroniken von Baradur – Teil 17 (Übernachtungs-LARP)
 
-* 16\. September 2023 (Sa) 14.00 Uhr: Chroniken von Baradur – Teil 184. November 2023 (Sa) 13.00 Uhr: Chroniken von Baradur – Teil 16
+
+
 
 

@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: single
 title:  "Auf ein larpiges 2023"
-categories: 2023larpes
+categories: events
 ---
 Liebe LARP-Spieler, liebe Eltern,
 

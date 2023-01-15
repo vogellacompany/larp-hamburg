@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "  Halloween-Sonderaktion Kämpfen, Klönen kleiner Flohmarkt"
 categories: jekyll update
 ---

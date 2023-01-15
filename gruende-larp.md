@@ -1,0 +1,17 @@
+---
+layout: single
+image: /assets/images/header.jpg
+classes: wide
+permalink: /gruende-larp/
+---
+
+
+
+## Warum LARP
+
+LARP Spiel dient Gesundheit, Kreativität, Umwelt, Sozialverhalten, ist pädagogisch wertvoll und macht Spaß.
+Das Spiel findet draußen in der Natur statt. 
+Man lernt den Umgang mit Gruppen, kann verschiedene Rollen ausprobieren, muss kreativ sein – daher gibt es in Dänemark Schulen, die LARP als Unterrichtsfach haben. 
+Am wichtigsten ist aber der Spaß am Spiel.
+
+Du lernst andere kennen, die auch Spaß haben am LARPen.

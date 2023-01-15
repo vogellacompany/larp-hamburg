@@ -28,9 +28,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 instagram_username: larp-hamburg
-header: assets/images/header.jpg
-teaser: assets/images/header.jpg
-logo:   assets/images/header.jpg # path of logo image to display in the masthead, e.g. "
+header: /assets/images/header.jpg
+teaser: /assets/images/header.jpg
+logo:   /assets/images/header.jpg # path of logo image to display in the masthead, e.g. "
 # Build settings
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
@@ -42,6 +42,9 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# Add pages
+include: ["_pages"]
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -50,7 +53,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-asciidoc
-  
+ 
 
 # Social Sharing
 twitter:
@@ -68,13 +71,11 @@ social:
   links: # An array of links to social media profiles
     - https://twitter.com/
     - https://github.com/
-
-
 author:
-  name             : "Your Name"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Christian Martens"
+  avatar           : "/assets/images/background.jpg"
+  bio              : "Christian Martens"
+  location         : "Hamburg"
   links:
     - label: "Your Website"
       icon: "fas fa-fw fa-link"
@@ -102,3 +103,26 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/larp-hamburg"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+      classes: wide
+  - scope:
+      path: ""
+      type: single
+    values:
+      layout: single
+      read_time: false
+      share: true
+      related: false
+      author_profile: true
+      classes: wide

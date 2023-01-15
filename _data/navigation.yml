@@ -1,15 +1,25 @@
 main:
   - title: "Anmeldung"
     url: /anmeldung/
-  - title: "Posts"
-    url: /year-archive/
+  - title: "Termine"
+    url: /termine/
+  - title: "Was ist passiert?"
+    url: /events/
   - title: "Regeln"
     url: /regeln/
-  - title: "Tags"
-    url: /tags/
   - title: "Photos"
     url: /photos/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
+  - title: "Orden"
+    url: /orden/
+  - title: "Impressum"
+    url: /impressum/
+
+docs:
+  - title: "Es geht rund"
+    url: /anmeldung/
+    children:
+    - title: "Posts"
+      url: /year-archive/
+    - title: "Regeln"
+      url: /regeln/
+  
