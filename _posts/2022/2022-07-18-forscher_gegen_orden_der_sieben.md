@@ -5,23 +5,6 @@ categories: jekyll update
 author_profile: Kiran
 header:
   teaser: /assets/images/homepage/kampf.jpeg
-gallery:
-  - url: assets/images/2022-09-18/2022_1112_Mikro-LARP_28.jpg
-    image_path: assets/images/2022-09-18/2022_1112_Mikro-LARP_28.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: assets/images/2022-09-18/2022-09-18-battle.jpeg
-    image_path: assets/images/2022-09-18/2022-09-18-battle.jpeg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
 ---
 
 Kaum zu glauben: Am 18. September waren wir knapp 50 Spieler und NSC, die auch zwei heftigen Regenschauern getrotzt haben. Eigentlich selbstverständlich, oder habt Ihr schonmal gelesen, dass Legolas gesagt hat: „Elben, Zwerge, Menschen! Die Schlacht gegen Sauron muss heute leider ausfallen – denn es regnet.“
@@ -37,4 +20,6 @@ Wie wird es weiter gehen? Das erfahrt Ihr am 12. November …
 
 # Bildergalery:
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
+{% include image-gallery.html folder="assets/images/test" %}
+

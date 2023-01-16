@@ -2,27 +2,17 @@
 
 Kiran:
   name        : "Kiran Vogel Nerlich"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  bio         : "Priester der Sieben und NSC"
+  avatar      : "/assets/images/leute/kiran.jpeg"
   links:
-    - label: "Email"
+    - label: "mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
-
+      url: "mailto:kiran.vogel@gmail.com"
 Liam:
   name        : "Liam Vogel Nerlich"
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
+  bio         : "Söldner und NSC"
+  avatar      : "/assets/images/leute/Liam.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cornelius@thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"
+      url: "mailto:liamp.vogel@gmail.com"

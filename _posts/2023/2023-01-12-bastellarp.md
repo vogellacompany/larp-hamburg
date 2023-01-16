@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  Bastel workshop 15.01.2023
-author_profile: true
+author: Liam
 header:
   image: /assets/images/header.jpg
 categories: events
@@ -9,9 +9,12 @@ categories: events
 
 
 ---
-Bis 30.November gibt es Frühbucher-Rabatt für den Workshop am 15.01.23 (8€ bzw. 18 €), bis 31.12.22 10, danach 15 €.
+Am 15. Januar sind wir zusammengekommen, um zu basteln. Wir hatten ca. 25 Besucher und haben mit ihnen gebastelt, gekämpft, und gegessen ;). Wir haben Schwerthalter, Fellumhänge, Arm/Beinschienen, Ketten und Geldbeutel gemacht.
+Bilder dazu seht Ihr unten.
 
-Bis 30.November gibt es Frühbucher-Rabatt für das LARP am 18.02.23 (8€ bzw. 18 €), bis 31.12.22 10, danach 15 €.
+Wir hoffen viel von der Ausrüstung und Kleiung beim nächsten LARP zu sehen.
 
-Wer noch Interesse an einem günstigen neuen Schwert hat (sehr ordentliche B-Ware), melde sich bitte kurzfristig unter <larp-hamburg@web.de>
+# Bildergallery
+
+{% include image-gallery.html folder="assets/images/2022-15-01" %}
 

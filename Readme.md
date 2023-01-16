@@ -28,3 +28,6 @@ Die Optionen sind hier beschrieben.
 
 https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
+Image gallery wird hier beschrieben.
+
+https://jekyllcodex.org/without-plugin/image-gallery/

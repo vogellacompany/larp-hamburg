@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-instagram_username: larp-hamburg
+instagram_username: larp_hamburg 
 header: /assets/images/header.jpg
 teaser: /assets/images/header.jpg
 logo:   /assets/images/header.jpg # path of logo image to display in the masthead, e.g. "
@@ -54,6 +54,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-asciidoc
  
+ 
 
 # Social Sharing
 twitter:
@@ -73,36 +74,29 @@ social:
     - https://github.com/
 author:
   name             : "Christian Martens"
-  avatar           : "/assets/images/background.jpg"
+  avatar           : "/assets/images/leute/Christian.jpeg"
   bio              : "Christian Martens"
   location         : "Hamburg"
   links:
-    - label: "Your Website"
+    - label: "Chroniken von Baradur"
       icon: "fas fa-fw fa-link"
-      url: "https://your-site.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "http://www.larp-hamburg.de"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/vogellacompany/larp-hamburg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://instagram.com/larp_hamburg"
 
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/vogellacompany/larp-hamburg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/larp-hamburg"
+      url: "https://instagram.com/larp_hamburg"
 
 defaults:
   # _posts
