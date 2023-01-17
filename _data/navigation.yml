@@ -1,10 +1,12 @@
 main:
   - title: "Anmeldung"
     url: /anmeldung/
+  - title: "Termine"
+    url: /termine/
   - title: "Nächstes Event"
     url: /next/
   - title: "Vergangene Events"
-    url: /next/
+    url: /events/
   - title: "Regeln"
     url: /regeln/
   - title: "Photos"

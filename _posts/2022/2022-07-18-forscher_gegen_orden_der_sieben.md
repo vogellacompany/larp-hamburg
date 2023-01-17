@@ -2,7 +2,7 @@
 layout: single
 title:  "Die Forscher des Kaisers gegen den Orden der Sieben"
 categories: jekyll update
-author_profile: Kiran
+author: Kiran
 header:
   teaser: /assets/images/homepage/kampf.jpeg
 ---

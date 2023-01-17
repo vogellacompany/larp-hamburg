@@ -20,21 +20,22 @@
 
 title: Chroniken von Baradur | LARP für Hamburg
 subtitle: Das beste LARP in Hamburg
-email: larp-hamburg@webmail.de
+email: larp-hamburg@web.de
 description: >- # this means to ignore newlines until "baseurl:"
   LARPs & Cons in Hamburg für jüngere und ältere Spieler.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 instagram_username: larp_hamburg 
 header: /assets/images/header.jpg
 teaser: /assets/images/header.jpg
-logo:   /assets/images/header.jpg # path of logo image to display in the masthead, e.g. "
+logo:   /assets/images/homepage/logo_white.png # path of logo image to display in the masthead, e.g. "
 # Build settings
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
 #minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 
 # Outputting
 permalink: /:categories/:title/
@@ -52,8 +53,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-asciidoc
  
- 
-
 # Social Sharing
 twitter:
   username               : "mmistakes"
@@ -70,28 +69,9 @@ social:
   links: # An array of links to social media profiles
     - https://twitter.com/
     - https://github.com/
-author:
-  name             : "Christian Martens"
-  avatar           : "/assets/images/leute/Christian.jpeg"
-  bio              : "Christian Martens"
-  location         : "Hamburg"
-  links:
-    - label: "Chroniken von Baradur"
-      icon: "fas fa-fw fa-link"
-      url: "http://www.larp-hamburg.de"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/vogellacompany/larp-hamburg"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/larp_hamburg"
-
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/vogellacompany/larp-hamburg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/larp_hamburg"

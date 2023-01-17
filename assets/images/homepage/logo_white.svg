@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   sodipodi:docname="logo_white.svg"
+   inkscape:export-filename="/home/jnerlich/git/larp-hamburg/assets/images/homepage/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <rect
+       x="4.5243785"
+       y="13.697432"
+       width="250.16941"
+       height="315.40002"
+       id="rect10255" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="701.09637"
+     inkscape:cy="-214.60691"
+     inkscape:window-width="3370"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <text
+       xml:space="preserve"
+       id="text10253"
+       style="font-style:italic;font-weight:bold;font-size:52.9134px;line-height:5.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';letter-spacing:0px;white-space:pre;shape-inside:url(#rect10255);fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+       transform="translate(22.574097,-132.11235)"><tspan
+         x="4.5234375"
+         y="166.34002"
+         id="tspan138137"><tspan
+           style="font-style:normal;font-family:'TeX Gyre Chorus';-inkscape-font-specification:'TeX Gyre Chorus, Normal'"
+           id="tspan138135">B</tspan></tspan></text>
+    <g
+       id="g128556"
+       transform="matrix(0.12187889,0,0,0.12187889,-11.982507,1.5542847)"
+       style="fill:#ffffff">
+	<path
+   class="st0"
+   d="m 405.878,357.099 c -3.641,-41.297 -29.703,-99.953 -92.734,-102.781 -92.922,0.25 -106.391,72.141 -97.656,103.984 7.328,26.75 26.781,48.078 54.422,45.656 27.641,-2.422 48.469,-26.844 45.656,-54.438 -0.484,-29.266 24.344,-28.5 25.094,3.875 1.016,43.094 -28.094,80.922 -71.031,84.703 -42.938,3.75 -77.531,-28.547 -84.719,-71.031 -4.344,-25.781 0.594,-75.172 44.438,-113.766 56.344,-49.594 117.719,9.875 112.734,-70.578 C 337.051,101.535 316.644,99.817 264.019,68.192 229.222,47.27 223.269,14.083 225.222,1.083 225.3,0.458 225.3,-0.48 224.066,0.302 c -32.594,20.469 -32.859,58 -13.813,87.25 9.141,14.016 28.031,21.234 29.969,43.422 2.641,30.094 -14.672,39.281 -28.938,51.703 -14.25,12.422 -31.219,25.75 -56.813,52.078 -40.875,42.063 -51.625,95.219 -48.359,140.266 3.609,41.281 23.625,77.203 53.031,101.875 29.453,24.688 68.313,38.141 109.594,34.516 41.297,-3.625 77.203,-23.641 101.906,-53.063 24.672,-29.438 38.844,-59.969 35.235,-101.25 z"
+   id="path128554"
+   style="fill:#ffffff" />
+
+</g>
+  </g>
+  <style
+     type="text/css"
+     id="style128552">
+<![CDATA[
+	.st0{fill:#000000;}
+]]>
+</style>
+</svg>

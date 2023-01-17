@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Auf ein larpiges 2023"
+author: Christian
 categories: events
 header:
   teaser: /assets/images/homepage/dorf.jpeg
