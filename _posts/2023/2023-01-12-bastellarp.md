@@ -5,10 +5,8 @@ author: Liam
 header:
   image: /assets/images/header.jpg
 categories: events
-
-
-
 ---
+
 Am 15. Januar sind wir zusammengekommen, um zu basteln. Wir hatten ca. 25 Besucher und haben mit ihnen gebastelt, gekämpft, und gegessen ;). Wir haben Schwerthalter, Fellumhänge, Arm/Beinschienen, Ketten und Geldbeutel gemacht.
 Bilder dazu seht Ihr unten.
 

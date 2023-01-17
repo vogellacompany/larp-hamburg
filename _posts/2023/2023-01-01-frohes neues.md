@@ -5,6 +5,7 @@ categories: events
 header:
   teaser: /assets/images/homepage/dorf.jpeg
 ---
+
 Liebe LARP-Spieler, liebe Eltern,
 
 hier bekommt Ihr schon die Termine für 2023 (basteln und LARP) – mit der Chance auf Frühbucher-Rabatt:

@@ -8,20 +8,14 @@ header:
   actions:
     - label: "Anmeldung"
       url: "/anmeldung"
-    - label: "Termine"
+    - label: "Nächstes Event"
+      url: "/next"
+    - label: "Vergangene Events"
       url: "/events"
-#sidebar:  
-#  - title: "Termine"
-#    image: assets/images/2022-09-18/2022-09-18seilziehen.jpeg
-#    image_alt: "image"
-#    text: "Some text here."
-#  - title: "Another Title"
-#    text: "More text here."
 entries_layout: grid
 classes: wide
 permalink: /
 ---
-
 
 
 ## Was sind wir? Was machen wir für die Spieler?

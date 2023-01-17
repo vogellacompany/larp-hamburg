@@ -225,7 +225,7 @@ Heilung
 Wir sind eine  Gruppe von Charakteren, die sich auf Entdeckungen und Erforschung von unbekannten Orten und Phänomenen spezialisiert haben. Wir sind  Wissenschaftler, Archäologen, Abenteurer oder auch einfach nur neugierige Individuen.
 
 Wir  sind immer auf der Suche nach neuen Entdeckungen und Abenteuern und bereit, Risiken einzugehen, um ihre Ziele zu erreichen. Wir  arbeiten oft unabhängig, aber können auch in Gruppen zusammenarbeiten, um größere Herausforderungen zu meistern. 
-Auch das dunkle und das Reich der Dämonen muss erforscht und verstanden werden.
+Auch das dunkle und das Reich der Mutanten (Dämonen) muss erforscht und verstanden werden.
 Eine falsche Überzeugung sollte nicht den Fortschritt stoppen.
 
 

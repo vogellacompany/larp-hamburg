@@ -5,10 +5,9 @@ author: Kiran
 header:
   image: /assets/images/header.jpg
 categories: events
-
-
-
+permalink: /next
 ---
+
 Letztes Event wurden die Priester von den Forschern besiegt.
 Die Forscher haben sich dabei mit einem Dämon eingelassen.
 An diesem wollen sie in diesem Event herumexperimentieren.
