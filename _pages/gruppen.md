@@ -230,9 +230,8 @@ Eine falsche Überzeugung sollte nicht den Fortschritt stoppen.
 
 
 
-# Die Zwielichtigen 
-
-Die Zwielichtigen müssen sich noch beschreiben...
+# Jünger des Zwielichts
+Jünger des Zwielichts... Aus den Überbliebenen der alten Chaos Armee und neuen Verbündeten die zwischen Licht und Schatten wandeln, formt sich im Zwielicht eine neue Macht... düster, geheimnisvoll, undefinierbar... Sie streben nach MACHT und EINFLUSSNAME auf alle die in ihre Nähe geraten...
 
 
 
