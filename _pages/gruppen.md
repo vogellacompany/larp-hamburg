@@ -22,7 +22,7 @@ Der Orden der Sieben ist ein Zusammenschluß von Priestern und Paladinen, die di
 * Elementar = Jenefa
 * Schatten\ Chaos= Kush
 * Natur\Liebe = Ramora
-* Gleischgewicht\Ordnung = Sediron
+* Gleichgewicht\Ordnung = Sediron
 * Krieg\Tot = Medoc
 * Heilung\Erfischung = NINA
 
