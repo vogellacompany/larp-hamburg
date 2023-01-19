@@ -20,6 +20,9 @@ Kontaktiere uns über das Kontaktformular oder schick uns eine Email an <larp-ha
     <textarea name="message" style="height:400px"></textarea>
   </label>
   <!-- your other form fields go here -->
+  <label>
+    Ich stimme zu, als Antwort auf meine Nachricht kontaktiert zu werden
+  </label>
   <button type="submit">Senden</button>
 </form>
 
