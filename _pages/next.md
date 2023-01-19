@@ -19,4 +19,6 @@ Oder helft den Forschern um findet mehr über das Wesen der Dämologie heraus.
 Oder schafft Eure eigene Geschichte.
 
 
-Zur Anmeldung geht es [hier:](/anmeldung).
+
+[Zur **Anmeldung** geht es hier:](/anmeldung).
+{: .notice--info}

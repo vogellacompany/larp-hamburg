@@ -231,8 +231,12 @@ Eine falsche Überzeugung sollte den Fortschritt nicht stoppen.
 
 
 # Jünger des Zwielichts
+<<<<<<< HEAD
 Jünger des Zwielichts... Aus den Überbliebenen der alten Chaos Armee und neuen Verbündeten, die zwischen Licht und Schatten wandeln, formt sich im Zwielicht eine neue Macht... düster, geheimnisvoll, undefinierbar... Sie streben nach MACHT und EINFLUSSNAHME auf alle, die in ihre Nähe geraten...
 
+=======
+Aus den Überbliebenen der alten Chaos Armee und neuen Verbündeten die zwischen Licht und Schatten wandeln, formt sich im Zwielicht eine neue Macht... düster, geheimnisvoll, undefinierbar... Sie streben nach MACHT und EINFLUSSNAHME auf alle die in ihre Nähe geraten...
+>>>>>>> branch 'main' of git@github.com:vogellacompany/larp-hamburg.git
 
 
 
