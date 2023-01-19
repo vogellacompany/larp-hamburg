@@ -231,8 +231,7 @@ Eine falsche Überzeugung sollte nicht den Fortschritt stoppen.
 
 
 # Jünger des Zwielichts
-Jünger des Zwielichts... Aus den Überbliebenen der alten Chaos Armee und neuen Verbündeten die zwischen Licht und Schatten wandeln, formt sich im Zwielicht eine neue Macht... düster, geheimnisvoll, undefinierbar... Sie streben nach MACHT und EINFLUSSNAME auf alle die in ihre Nähe geraten...
-
+Aus den Überbliebenen der alten Chaos Armee und neuen Verbündeten die zwischen Licht und Schatten wandeln, formt sich im Zwielicht eine neue Macht... düster, geheimnisvoll, undefinierbar... Sie streben nach MACHT und EINFLUSSNAHME auf alle die in ihre Nähe geraten...
 
 
 
