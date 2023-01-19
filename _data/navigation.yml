@@ -14,9 +14,11 @@ main:
   - title: "Kontakt"
     url: /contact/
   - title: "Gruppen"
-    url: /gruppen/
+    url: /gruppen/  
   - title: "Impressum"
     url: /impressum/
+  - title: "Datenschutz"
+    url: /datenschutz/
 
 docs:
   - title: "Es geht rund"
