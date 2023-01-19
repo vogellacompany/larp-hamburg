@@ -8,13 +8,13 @@ classes: wide
 
 Angaben gem. § 5 TMG:
 
-Christian Marten 
-Straße X \
-XXXXX Hamburg \
+Christian Martens \
+Sachsenweg 34a \
+22455 Hamburg 
 
 Kontaktaufnahme:
 
-Tel: +49 0152 -53 11 23 20 \
+Tel: +49 40 53272544 \
 E-Mail: larp-hamburg@web.de
 
 # Haftungsausschluss – Disclaimer:

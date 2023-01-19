@@ -79,10 +79,10 @@ Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglic
 ### Hinweis zur verantwortlichen Stelle
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Christian Marten \
-Straße x \
-xxxxx Hamburg \
-Telefon: +49 0152 -53 11 23 20\
+Christian Martens \
+Sachsenweg 34a \
+22455 Hamburg \
+Telefon: +49 40 53272544\
 E-Mail: larp-hamburg@web.de
  
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. ä.) entscheidet.
