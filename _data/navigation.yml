@@ -7,14 +7,14 @@ main:
     url: /next/
   - title: "Vergangene Events"
     url: /events/
+  - title: "Gruppen"
+    url: /gruppen/   
   - title: "Regeln"
     url: /regeln/
   - title: "Photos"
     url: /photos/
   - title: "Kontakt"
     url: /contact/
-  - title: "Gruppen"
-    url: /gruppen/  
   - title: "Impressum"
     url: /impressum/
   - title: "Datenschutz"
