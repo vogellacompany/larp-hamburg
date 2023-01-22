@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Chroniken von Baradur | LARP für Hamburg
-subtitle: Das beste LARP in Hamburg
+subtitle: Von Spielern für Spieler
 email: larp-hamburg@web.de
 description: >- # this means to ignore newlines until "baseurl:"
   LARPs & Cons in Hamburg für jüngere und ältere Spieler.
