@@ -29,11 +29,11 @@ Hier kannst Du Dich für ein Event anmelden. Bitte gib im Text folgende Informat
 >
   <label>
     Deine Email:
-    <input type="email" name="email">
+    <input type="email" name="email" required>
   </label>
   <label>
     Anmeldung:
-    <textarea name="message" style="height:400px"></textarea>
+    <textarea name="message" required style="height:400px"></textarea>
   </label>
   <label>
     Ich stimme zu, als Antwort auf meine Anmeldung kontaktiert zu werden

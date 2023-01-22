@@ -13,11 +13,11 @@ Kontaktiere uns über das Kontaktformular oder schick uns eine Email an <larp-ha
 >
   <label>
     Deine Email:
-    <input type="email" name="email">
+    <input type="email" name="email" required>
   </label>
   <label>
     Deine Nachricht:
-    <textarea name="message" style="height:400px"></textarea>
+    <textarea name="message" style="height:400px" required></textarea>
   </label>
   <!-- your other form fields go here -->
   <label>
