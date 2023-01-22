@@ -231,13 +231,7 @@ Eine falsche Überzeugung sollte den Fortschritt nicht stoppen.
 
 
 # Jünger des Zwielichts
-<<<<<<< HEAD
-Jünger des Zwielichts... Aus den Überbliebenen der alten Chaos Armee und neuen Verbündeten, die zwischen Licht und Schatten wandeln, formt sich im Zwielicht eine neue Macht... düster, geheimnisvoll, undefinierbar... Sie streben nach MACHT und EINFLUSSNAHME auf alle, die in ihre Nähe geraten...
-
-=======
-Aus den Überbliebenen der alten Chaos Armee und neuen Verbündeten die zwischen Licht und Schatten wandeln, formt sich im Zwielicht eine neue Macht... düster, geheimnisvoll, undefinierbar... Sie streben nach MACHT und EINFLUSSNAHME auf alle die in ihre Nähe geraten...
->>>>>>> branch 'main' of git@github.com:vogellacompany/larp-hamburg.git
-
+Aus den Überbliebenen der alten Chaos Armee und neuen Verbündeten, die zwischen Licht und Schatten wandeln, formt sich im Zwielicht eine neue Macht... düster, geheimnisvoll, undefinierbar... Sie streben nach MACHT und EINFLUSSNAHME auf alle, die in ihre Nähe geraten...
 
 
 # Die Söldner
@@ -245,7 +239,7 @@ Aus den Überbliebenen der alten Chaos Armee und neuen Verbündeten die zwischen
 Brauchst Du neue Freunde?\
 Wir sind für Dich da!\
 Wir sind Deine Freude!\
-Solange Du uns ANGEMESSEN bezahlst.\
+Solange Du uns ANGEMESSEN bezahlst.
  
 
 Wir sind eine Gruppe von NSCs, die Dir helfen Deine Probleme für Geld zu lösen. Ärger mit dem Gesetz? Ärger mit dem Orden der Sieben? Einem alten Freund mal richtig eins in die Fresse geben? 

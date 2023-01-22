@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
 categories: events
-permalink: /next
+permalink: /next/
 ---
 
 Letztes Event wurden die Priester von den Forschern besiegt.

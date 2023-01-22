@@ -11,8 +11,6 @@ main:
     url: /gruppen/   
   - title: "Regeln"
     url: /regeln/
-  - title: "Photos"
-    url: /photos/
   - title: "Kontakt"
     url: /contact/
   - title: "Impressum"
