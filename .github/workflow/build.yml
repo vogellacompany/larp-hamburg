@@ -1,0 +1,32 @@
+name: Build blog and push to build branch
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    name: Build and Push
+    steps:
+    - name: git-checkout
+      uses: actions/checkout@ac593985615ec2ede58e132d2e21d2b1cbd6127c # v3.3.0
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@ee26e27437bde475b19a6bf8cb73c9fa658876a2 # v1.134.0
+      # automatically picks up Ruby version from .ruby-version file
+      with:
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+    - name: Run jekyll build
+      run: bundle exec jekyll build
+    - name: Push to build branch
+      if: github.ref == 'refs/heads/main'
+      uses: s0/git-publish-subdir-action@92faf786f11dfa44fc366ac3eb274d193ca1af7e # v2.6.0
+      env:
+        REPO: self
+        BRANCH: build
+        CLEAR_GLOBS_FILE: ".clear-target-files"
+        FOLDER: _site
+        TARGET_DIR: _site
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
