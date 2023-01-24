@@ -17,10 +17,14 @@ sidebar:
     	   November 2023 (Sa) 13.00 Uhr "
 ---
 
-Hier kannst Du Dich für ein Event anmelden. Bitte gib im Text folgende Informationen an:
+Hier kannst Du Dich für ein Event anmelden.
+Bitte gib im Text folgende Informationen an:
 
 - Event und Datum (siehe Termine links)
 - Anzahl Personen
+
+Der Unkostenbeitrag, je nach Datum der Anmeldung, liegt zwischen 18 und 22 €.
+Wir schicken Dir dann die Information, nachdem Du uns kontaktiert hast, Du kannst dann immer noch entscheiden, ob Du mitmachen willst.
 
 <!-- Anmeldungsformular-->
 <form

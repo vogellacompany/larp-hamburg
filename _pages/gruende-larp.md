@@ -14,15 +14,5 @@ Am wichtigsten ist aber der Spaß am Spiel.
 
 Du lernst andere kennen, die auch Spaß haben am LARPen.
 
-## Wann findet es statt?
 
-Die nächsten Termine findet du unter [Termine](/termine).
-
-## Was brauche ich zum Mitspielen?
-
-Neugier, Spaß am Spiel in Gruppen und eine [Anmeldung](/anmeldung).
-
-Vorerfahrung ist nicht erforderlich.
-
-Zustäzlich wäre ein Latex-Schwert und einen dunklen Umhang/Kleidung hilfreich (kann ggf. auch ausgeliehen werden). Festes Schuhwerk brauchst Du auf jedem Fall.
-Natürlich ist am coolsten, wenn Du Dich richtig schön verkleidest, um deinen Charakter besser darstellen zu können.
+{% include mehr-informationen.md %}

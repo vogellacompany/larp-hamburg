@@ -28,9 +28,13 @@ Es gibt aber bei jedem Ereignis eine Geschichte, die wir vorbereiten und ihr mit
 
 Snacks, Getränke und Lagerfeuer gibt es auch.
 
+Unsere Events finden meistens in Hamburg-Rahlstedt statt (nähere Infos erhaltet Ihr bei der [Anmeldung](/anmeldung)).
+
+
+
 |------|
 |[![image](/assets/images/homepage/dorf_sepia3.png)](/gruende-larp/#warum-sollte-ich-larp-spielen)|
-|[![image](/assets/images/homepage/kampf3.png)](/gruende-larp/#wann-findet-es-statt)|	
-|[![image](/assets/images/homepage/heroisch3.png)](/gruende-larp/#was-brauche-ich-um-mitzuspielen) |
+|[![image](/assets/images/homepage/kampf3.png)](/termine/)|	
+|[![image](/assets/images/homepage/heroisch3.png)](/anforderungen/) |
 
 
