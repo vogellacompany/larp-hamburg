@@ -1,5 +1,7 @@
 ## Mehr Informationen
 
-Du kannst [hier](/anforderungen) nachschauen, [was Du brauchst](/anforderungen).
+Du kannst [hier](/anforderungen) nachschauen, was Du brauchst.
 
-Die nächsten [Termine](/termine) findet du unter [wann gibt es das nächste Event](/termine).
+Die nächsten Termine findet du unter [wann gibt es das nächste Event](/termine).
+
+Anmelden kannst Du dich [hier](/anmeldung).

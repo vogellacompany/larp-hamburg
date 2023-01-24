@@ -8,6 +8,7 @@ permalink: /anforderungen/
 # Was brauche ich zum Mitspielen?
 
 Zum Mitmachen brauchst Du eigentlich nur Neugier, Spaß am Spiel in Gruppen und eine [Anmeldung](/anmeldung).
+Die nächsten Termine findest Du [hier](/termine),
 
 Vorerfahrung ist nicht erforderlich.
 

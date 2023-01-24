@@ -20,5 +20,7 @@ An diesen Terminen kannst Du mithelfen das Königreich von Baradur zu beschütze
 > November 2023 (Sa) 13.00 Uhr 
 
 
-{% include mehr-informationen.md %}
+Du kannst [hier](/anforderungen) nachschauen, was Du brauchst.
+
+Anmelden kannst Du dich [hier](/anmeldung).
 
