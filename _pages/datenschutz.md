@@ -47,6 +47,11 @@ Des Weiteren steht Dir ein Beschwerderecht bei der zuständigen Aufsichtsbehörd
 
 Hierzu sowie zu weiteren Fragen zum Thema Datenschutz kannst Du dich jederzeit an uns wenden.
 
+### Analyse-Tools und Tools von Drittanbietern
+Beim Besuch dieser Website kann Dein Surf-Verhalten statistisch ausgewertet werden. 
+Das geschieht vor allem mit sogenannten Analyseprogrammen.
+Detaillierte Informationen zu diesen Analyseprogrammen findest Du in der folgenden Datenschutzerklärung.
+
 ## 2. Hosting
 Wir hosten die Inhalte unserer Website beim Anbieter Hetzner.
 
@@ -159,6 +164,92 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten z
 Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
 
 ## 4. Datenerfassung auf dieser Website
+
+### Cookies
+Unsere Internetseiten verwenden so genannte „Cookies“. 
+Cookies sind kleine Datenpakete und richten auf Deinem Endgerät keinen Schaden an. 
+Sie werden entweder vorübergehend für die Dauer einer Sitzung (Session-Cookies) oder dauerhaft (permanente Cookies) auf Deinem Endgerät gespeichert. 
+Session-Cookies werden nach Ende Ihres Besuchs automatisch gelöscht. 
+Permanente Cookies bleiben auf Deinem Endgerät gespeichert, bis Du diese selbst löschst oder eine automatische Löschung durch Deinem Webbrowser erfolgt.
+
+Cookies können von uns (First-Party-Cookies) oder von Drittunternehmen stammen (sog. Third-Party-Cookies). 
+Third-Party-Cookies ermöglichen die Einbindung bestimmter Dienstleistungen von Drittunternehmen innerhalb von Webseiten (z. B. Cookies zur Abwicklung von Zahlungsdienstleistungen).
+
+Cookies haben verschiedene Funktionen. 
+Zahlreiche Cookies sind technisch notwendig, da bestimmte Webseitenfunktionen ohne diese nicht funktionieren würden (z. B. die Warenkorbfunktion oder die Anzeige von Videos). 
+Andere Cookies können zur Auswertung des Nutzerverhaltens oder zu Werbezwecken verwendet werden.
+Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs, zur Bereitstellung bestimmter, von Dir erwünschter Funktionen (z. B. für die Warenkorbfunktion) oder zur Optimierung der
+Website (z. B. Cookies zur Messung des Webpublikums) erforderlich sind (notwendige Cookies), werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert, sofern keine andere Rechtsgrundlage angegeben wird.
+Der Websitebetreiber hat ein berechtigtes Interesse an der Speicherung von notwendigen Cookies zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste. 
+Sofern eine Einwilligung zur Speicherung von Cookies und vergleichbaren Wiedererkennungstechnologien abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage dieser Einwilligung (Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TTDSG); die Einwilligung ist jederzeit widerrufbar.
+Du kannst Deinen Browser so einstellen, dass Du über das Setzen von Cookies informiert wirst und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browsers aktivieren. Bei der
+Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.
+
+Welche Cookies und Dienste auf dieser Website eingesetzt werden, kannst Du dieser Datenschutzerklärung entnehmen.
+
+#### Cookiebot
+
+Wir nutzen den Zustimmungsverwaltungsdienst Cookiebot, der Usercentrics A/S, Havnegade 39, 1058 Kopenhagen, Dänemark (Usercentrics). 
+Dies ermöglicht uns die Einwilligung der Websitenutzer zur Datenverarbeitung einzuholen und zu verwalten. 
+Die Verarbeitung ist zur Erfüllung einer rechtlichen Verpflichtung erforderlich (Art. 7 Abs. 1DSGVO), der wir unterliegen (Art. 6 Abs. 1 S. 1 lit. c DSGVO). 
+Dafür werden mit Hilfe von Cookies folgende Daten verarbeitet:
+
+* Deine IP-Adresse (die letzten drei Ziffern werden auf ‚0’ gesetzt). 
+* Datum und Uhrzeit der Zustimmung. 
+* Browserinformationen URL, von der die Zustimmung gesendet wurde. 
+* Ein anonymer, zufälliger und verschlüsselter Schlüssel des Endnutzers und Dein Einwilligungsstatus, als Nachweis der Zustimmung
+
+Der Schlüssel und Zustimmungsstatus werden für 12 Monate im Browser mit Hilfe des Cookies „CookieConsent“ gespeichert. 
+Damit bleibt Deine Cookie-Präferenz für nachfolgende Seitenanfragen erhalten. 
+Mit Hilfe des Schlüssels kann Deine Zustimmung nachgewiesen und nachvollzogen werden.
+
+Wenn Du die Service-Funktion „Sammelzustimmung“ aktivierst, um die Zustimmung für mehrere Webseiten durch eine einzige Endnutzerzustimmung zu aktivieren, speichert der Dienst zusätzlich eine separate, zufällige, eindeutige ID mit Deiner Zustimmung. 
+Wenn alle folgenden Kriterien erfüllt sind, wird dieser Schlüssel im Cookie des Drittanbieters „CookieConsentBulkTicket“ in Deinem Browser in verschlüsselter Form gespeichert: Du kannst die Sammelzustimmungsfunktion in der Dienstkonfiguration aktivieren. 
+Du lässt Cookies von Drittanbietern über Browsereinstellungen zu. 
+Du hast „Nicht verfolgen“ über die Browsereinstellungen deaktiviert. Du akzeptierst alle oder wenigstens bestimmte Arten von Cookies, wenn Du die Zustimmung erteilst.
+
+Die Funktionsfähigkeit der Website ist ohne die Verarbeitung nicht gewährleistet.
+
+Usercentrics ist Empfänger Deiner personenbezogenen Daten und als Auftragsverarbeiter für uns tätig.
+
+Die Verarbeitung findet in der Europäischen Union statt. 
+Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber Usercentrics findest Du unter: https://www.cookiebot.com/de/privacy-policy/
+
+Deine personenbezogenen Daten werden fortlaufend nach 12 Monaten oder unmittelbar nach der Kündigung des Vertrages zwischen uns und Usercentrics gelöscht.
+
+#### Google Analytics
+Wir verwenden Google Analytics, um die Website-Nutzung zu analysieren. 
+Die daraus gewonnenen Daten werden genutzt, um unsere Website sowie Werbemaßnahmen zu optimieren. 
+
+Google Analytics wird uns von Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Irland) bereitgestellt. 
+Google verarbeitet die Daten zur Website-Nutzung in unserem Auftrag und verpflichtet sich vertraglich zu Maßnahmen, um die Sicherheit und Vertraulichkeit der verarbeiteten Daten zu gewährleisten.
+
+Während Deinem Besuchs werden u.a. folgende Daten aufgezeichnet:
+
+* Aufgerufene Seiten
+* Bestellungen inkl. des Umsatzes und der bestellten Produkte
+* Die Erreichung von "Website-Zielen" (z.B. Kontaktanfragen und Newsletter-Anmeldungen)
+* Dein Verhalten auf den Seiten (beispielsweise Verweildauer, Klicks, Scrollverhalten)
+* Dein ungefährer Standort (Land und Stadt)
+* Deine IP-Adresse (in gekürzter Form, sodass keine eindeutige Zuordnung möglich ist)
+* Technische Informationen wie Browser, Internetanbieter, Endgerät und Bildschirmauflösung
+* Herkunftsquelle Deines Besuchs (d.h. über welche Website bzw. über welches Werbemittel Du zu uns gekommen bist)
+
+Es werden niemals persönliche Daten wie Name, Anschrift oder Kontaktdaten an Google Analytics übertragen.
+
+Diese Daten werden an Server von Google in den USA übertragen. 
+Wir weisen darauf hin, dass in den USA datenschutzrechtlich nicht das gleiche Schutzniveau wie innerhalb der EU garantiert werden kann. 
+
+Google Analytics speichert Cookies in Deinem Webbrowser für die Dauer von zwei Jahren seit Deinem letzten Besuch. 
+Diese Cookies enthalten eine zufallsgenerierte User-ID, mit der Du bei zukünftigen Besuchen wiedererkannt werden kannst.
+
+Die aufgezeichneten Daten werden zusammen mit der zufallsgenerierten User-ID gespeichert, was die Auswertung pseudonymer Nutzerprofile ermöglicht. 
+Diese nutzerbezogenen Daten werden automatisch nach 14 Monaten gelöscht. 
+Sonstige Daten bleiben in aggregierter Form unbefristet gespeichert.
+
+Solltest Du mit der Erfassung nicht einverstanden sein, kannst Du diese mit der einmaligen Installation des Browser-Add-ons zur Deaktivierung von Google Analytics unterbinden oder durch das 
+Ablehnen der Cookies über unseren <script id="CookieDeclaration" src="https://consent.cookiebot.com/00000000-0000-0000-0000-000000000000/cd.js" type="text/javascript" async></script> Cookie-Einstellungs-Dialog.
+
 ### Server-Log-Dateien 
 Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log-Dateien, die Dein Browser automatisch an uns übermittelt. 
 Dies sind:
@@ -245,6 +336,10 @@ Wenn Dein Browser Font Awesome nicht unterstützt, wird eine Standardschrift von
 Weitere Informationen zu Font Awesome findest Du in der Datenschutzerklärung von Font Awesome unter: [https://fontawesome.com/privacy](https://fontawesome.com/privacy).
 
 
+## 7. Cookies
+
+
+.Cookie Declaration
 
 
 
