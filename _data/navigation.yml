@@ -7,8 +7,8 @@ main:
     url: /next/
   - title: "Vergangene Events"
     url: /events/
-  - title: "Gruppen"
-    url: /gruppen/   
+  - title: "Fraktionen"
+    url: /fraktionen/   
   - title: "Regeln"
     url: /regeln/
   - title: "Kontakt"

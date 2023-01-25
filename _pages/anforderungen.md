@@ -17,6 +17,8 @@ Festes Schuhwerk brauchst Du auf jedem Fall.
 
 Natürlich ist am coolsten, wenn Du Dich richtig schön verkleidest, um deinen Charakter besser darstellen zu können.
 
+Es muss nicht die teuerste Ausrüstung sein – selbstgebastelt ist am schönsten.
+
 
 Bei uns kannst Du sein, was Du willst, ein Kämpfer, Elf, Zwerg, Ork, Heiler, Räuber, Forscher, Händler, Meuchelmörder oder vielleicht ein geheimnisvolles Wesen? 
 
