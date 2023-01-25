@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  Gebete der Sieben
-permalink: /fraktionen/sieben
+permalink: /fraktionen/sieben/
 ---
 
 

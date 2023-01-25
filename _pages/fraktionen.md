@@ -36,7 +36,7 @@ Wir verdammen und bekämpfen jeglichen Kontakt mit dem Inferno, die Dämonbrut s
 
 Wir glauben, dass jeder Mensch sich den Göttern bekehren kann, solange er sich an unsere Maßstäbe hält.
 
-Unsere Gebete findet ihr [hier](/fraktionen/sieben).
+Unsere Gebete findet ihr [hier](/fraktionen/sieben/).
 
 
 # Die Forscher
