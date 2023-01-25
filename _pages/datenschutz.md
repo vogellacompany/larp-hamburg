@@ -24,7 +24,7 @@ Ausführliche Informationen zum Thema Datenschutz entnimst Du unserer unter dies
 ### Datenerfassung auf dieser Website 
 #### Wer ist verantwortlich für die Datenerfassung auf dieser Website? 
 Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. 
-Dessen Kontaktdaten kannst Du dem Abschnitt [Hinweis zur Verantwortlichen Stelle](/#hinweis-zur-verantwortlichen-stelle) in dieser Datenschutzerklärung entnehmen.
+Dessen Kontaktdaten kannst Du dem Abschnitt [Hinweis zur Verantwortlichen Stelle](/datenschutz/#hinweis-zur-verantwortlichen-stelle) in dieser Datenschutzerklärung entnehmen.
 
 #### Wie erfassen wir Deine Daten?
 Deine Daten werden zum einen dadurch erhoben, dass Du uns diese mitteilst.
@@ -244,7 +244,7 @@ Google Analytics speichert Cookies in Deinem Webbrowser für die Dauer von zwei 
 Diese Cookies enthalten eine zufallsgenerierte User-ID, mit der Du bei zukünftigen Besuchen wiedererkannt werden kannst.
 
 Die aufgezeichneten Daten werden zusammen mit der zufallsgenerierten User-ID gespeichert, was die Auswertung pseudonymer Nutzerprofile ermöglicht. 
-Diese nutzerbezogenen Daten werden automatisch nach 14 Monaten gelöscht. 
+Diese nutzerbezogenen Daten werden automatisch nach 2 Monaten gelöscht. 
 Sonstige Daten bleiben in aggregierter Form unbefristet gespeichert.
 
 Solltest Du mit der Erfassung nicht einverstanden sein, kannst Du diese mit der einmaligen Installation des Browser-Add-ons zur Deaktivierung von Google Analytics unterbinden oder durch das 
@@ -335,11 +335,6 @@ Wenn Dein Browser Font Awesome nicht unterstützt, wird eine Standardschrift von
 
 Weitere Informationen zu Font Awesome findest Du in der Datenschutzerklärung von Font Awesome unter: [https://fontawesome.com/privacy](https://fontawesome.com/privacy).
 
-
-## 7. Cookies
-
-
-.Cookie Declaration
 
 
 
