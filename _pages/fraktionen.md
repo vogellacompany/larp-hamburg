@@ -12,8 +12,7 @@ toc_sticky: true
 Zur Zeit gibt es in Baradur die folgenden Fraktionen.
 Aber vielleicht willst Du und Deine Freunde einen neue gründen.
 
-
-Als Spieler (SC) könnt Ihr dem Fraktionen beitreten. Grundsätzlich besteht auch die Möglichkeit eigenständige Rolle außerhalb dieser beiden Fraktionen zu erhalten (bei Interesse schreibt uns eine Mail).
+Als Spieler (SC) könnt Ihr der Fraktion „Orden der Sieben“ oder den Forschern („Kaiserliche“) beitreten. Grundsätzlich besteht auch die Möglichkeit eigenständige Rolle außerhalb dieser beiden Fraktionen zu erhalten (bei Interesse schreibt uns eine Mail).
 
 Die Stadt Baradur gehört zum Reich des Kaisers, ist aber nicht immer mit allen Entscheidungen des Kaisers einverstanden. Nach Baradur haben alle Wesen Zugang, die sich an die Regeln der Stadt halten.  
 

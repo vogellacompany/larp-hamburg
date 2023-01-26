@@ -20,7 +20,9 @@ Natürlich ist am coolsten, wenn Du Dich richtig schön verkleidest, um deinen C
 Es muss nicht die teuerste Ausrüstung sein – selbstgebastelt ist am schönsten.
 
 
-Bei uns kannst Du sein, was Du willst, ein Kämpfer, Elf, Zwerg, Ork, Heiler, Räuber, Forscher, Händler, Meuchelmörder oder vielleicht ein geheimnisvolles Wesen? 
+Bei uns kannst Du ganz verschiedene Rollen haben: Kämpfer, Elf, Zwerg, Ork, Heiler, Räuber, Forscher, Händler, - vielleicht auch Meuchelmörder oder ein geheimnisvolles Wesen?
+
+
 
 
 

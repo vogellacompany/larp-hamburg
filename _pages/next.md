@@ -9,14 +9,13 @@ categories: events
 permalink: /next/
 ---
 
-Letztes Event wurden die Priester von den Forschern besiegt.
-Die Forscher haben sich dabei mit einem Dämon eingelassen.
-An diesem wollen sie in diesem Event herumexperimentieren.
-Aber die Priester wollen dies verhindern und die Macht über das Dorf Baradur zurückerobern.
+Beim letztes LARP wurden die Priester des „Ordens der Sieben“ von den Forschern des Kaisers besiegt. Die Forscher haben sich dabei mit einem Dämon eingelassen. Dieses LARP wollen sie mit dem Dämonen herumexperimentieren. Aber die Priester wollen dies verhindern und die Macht über die Stadt Baradur zurückerobern.
+ 
+Kommt, um den Priestern zu helfen Baradur zu erobern und die Pläne der Forscher zu vereiteln. Oder helft den Forschern und findet mehr über das Wesen der Dämonen heraus. Oder schafft Eure eigene Geschichte.
 
-Kommt um den Priestern zu helfen das Dort zu erobern und die Pläne der Forscher zu vereiteln.
-Oder helft den Forschern um findet mehr über das Wesen der Dämologie heraus.
-Oder schafft Eure eigene Geschichte.
+ 
+
+
 
 
 
