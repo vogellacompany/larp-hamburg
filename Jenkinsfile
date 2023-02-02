@@ -10,6 +10,13 @@ pipeline {
                         sh 'ssh webmaster@gilbert.vogella.com rsync -rzvhP --delete /var/www/vhosts/larp-hamburg/staging/* /var/www/vhosts/larp-hamburg/www/'
                     }
                 }
+
+                stage('Deploy to new server') {
+                    steps {
+                        sh 'rsync -rzvhP --delete _site/* jenkins@49.12.109.95:/var/www/vhosts/larp-hamburg/staging'
+                        sh 'ssh jenkins@49.12.109.95 rsync -rzvhP --delete /var/www/vhosts/larp-hamburg/staging/* /var/www/vhosts/larp-hamburg/www/'
+                    }
+                }
             }
         }
     }
