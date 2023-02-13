@@ -14,6 +14,9 @@ classes: wide
 permalink: /
 background: /assets/images/homepage/story.jpg
 --- 
+
+Für die privaten Veranstaltungen braucht man eine Einladung
+
 # Was sind wir?
 Wir sind eine Gruppe Jugendlicher und ein paar Erwachsene, die LARP (Live Action Roll Play) spielen. 
 Wir spielen im  Fantasy- und Mittelalter-Ambiente, ähnlich _Herr der Ringe_, sind also Krieger, Zauberer, Elfen, Orks und vieles mehr. Es gibt Fraktionen/Gilden. Wir treiben Handel, kämpfen mit Polsterwaffen, wirken Magie – und erleben spannende Abenteuer.
