@@ -22,4 +22,10 @@ var store = [{
         "tags": [],
         "url": "/events/bastellarp/",
         "teaser": "/assets/images/header.jpg"
+      },{
+        "title": "Die Rache der Priester",
+        "excerpt":"Beim letztes LARP wurden die Priester des „Ordens der Sieben“ von den Forschern des Kaisers besiegt. Die Forscher haben sich dabei mit einem Dämon eingelassen. Dieses LARP wollen sie mit dem Dämonen herumexperimentieren. Aber die Priester wollen dies verhindern und die Macht über die Stadt Baradur zurückerobern. Kommt, um den...","categories": ["events"],
+        "tags": [],
+        "url": "/events/die-rache-der-priester-copy/",
+        "teaser": "/assets/images/header.jpg"
       }]
