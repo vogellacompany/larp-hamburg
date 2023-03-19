@@ -2,8 +2,6 @@
 layout: single
 title:  Die Rache der Priester
 author: Liam
-header:
-  image: /assets/images/header.jpg
 categories: events
 ---
 

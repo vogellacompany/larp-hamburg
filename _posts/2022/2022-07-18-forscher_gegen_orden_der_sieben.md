@@ -15,8 +15,6 @@ Schließlich ging es in Baradur darum die Spuren der Dämonen zu finden, die zul
 
 Wie gut, dass ein wärmendes Feuer mit leckerer Suppe und eine gut bestückte Taverne auf uns wartete.
 
-Wie wird es weiter gehen? Das erfahrt Ihr am 12. November …
-
 # Bildergalery:
 
 
