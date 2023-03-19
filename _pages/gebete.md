@@ -7,7 +7,7 @@ permalink: /fraktionen/sieben/
 
 ## Gebete 
 
-Dies sind ein paar unserer Gebete:
+Dies sind unserer Gebete:
 
 
 

@@ -43,6 +43,7 @@ Unsere Gebete findet ihr [hier](/fraktionen/sieben/).
 Wir sind eine Gruppe aus Forscher:innen und Paladinen die vom Kaiser ausgesandt wurden um den einzig
 wahren Glauben zu vertreten. Dem Kaiser wurden immer häufiger komische Aktivitäten nähe Baradurs
 geschildert, weshalb er uns schickte.
+
 Der Verdacht unsererseits, dass es sich dabei um Aktivitäten des _Orden der Sieben_ handelt, bestätigte
 sich, als wir eben jene in Baradur antrafen. Es stellte sich heraus, dass sie hierher gekommen waren um
 ein Ritual durchzuführen. Dieses ging jedoch gnadenlos schief und wir wurden zeuge von einem Desaster
@@ -50,8 +51,9 @@ einer unvorstellbaren Dimension. Statt einer Kraft oder einem ,,Gott“ erblickt
 Wesen. Wir nennen ihn Mutant, der Orden der Sieben nennt ihn Dämon. Aber was es wirklich ist, das
 steht noch in den Sternen, wir wollen jedoch diese Sterne fassen und sie lösen. Wir sind jedoch auch nicht
 nur Forscher:innen sondern auch Kämpfer:innen die gegen das Böse des unbewussten kämpfen, nicht nur
-in den Reihen des Verstandes sonder auch in den Reihen des Körperlichen. Wir sind eine Gruppe aus
-Wissenschaftlern, Soldaten und Medici. Also ist bei uns für jeden Platz.
+in den Reihen des Verstandes sondern auch in den Reihen des Körperlichen. 
+Wir sind eine Gruppe aus Wissenschaftlern, Soldaten und Medici. 
+Also ist bei uns für jeden Platz.
 
 
 
