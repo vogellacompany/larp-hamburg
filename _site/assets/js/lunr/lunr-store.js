@@ -24,8 +24,8 @@ var store = [{
         "teaser": "/assets/images/header.jpg"
       },{
         "title": "Die Rache der Priester",
-        "excerpt":"Beim letztes LARP wurden die Priester des „Ordens der Sieben“ von den Forschern des Kaisers besiegt. Die Forscher haben sich dabei mit einem Dämon eingelassen. Dieses LARP wollen sie mit dem Dämonen herumexperimentieren. Aber die Priester wollen dies verhindern und die Macht über die Stadt Baradur zurückerobern. Kommt, um den...","categories": ["events"],
+        "excerpt":"Beim letztes LARP wurden die Priester des „Ordens der Sieben“ von den Forschern des Kaisers besiegt. Die Forscher haben sich dabei mit einem Dämon eingelassen. Am 18.02.2023 war es so weit: die Forscher vs. die Sieben; die Forscher im Dorf, die Sieben außerhalb. Doch was war das da war noch...","categories": ["events"],
         "tags": [],
-        "url": "/events/die-rache-der-priester-copy/",
+        "url": "/events/die-rache-der-priester/",
         "teaser": "/assets/images/header.jpg"
       }]
