@@ -5,4 +5,4 @@ classes: wide
 permalink: /anmeldung/
 ---
 
-Unser nächstes LARP findet statt am Samstag, den 18. Februar in Rahlstedt. Es handelt sich um eine private Veranstaltung. Eine Teilnahme kann nur durch eine Einladung erfolgen.
+Unser nächstes LARP findet statt am Samstag, den 3. Juni. Bei Interesse, bitte melden unter larp-hamburg@web.de
