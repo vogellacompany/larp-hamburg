@@ -1,20 +1,20 @@
 ---
 layout: single
-title: Fraktionen beim BARADUR-LARP
+title: Fraktionen beim Windora LARP
 permalink: /fraktionen/
 toc: true
 toc_label: Unsere Fraktionen im Spiel
 toc_sticky: true
 ---
+Das Kaiserreich von Windora ist groß. Im Osten liegt - weit weg von der Hauptstadt des Reiches - tief im Wald das Städtchen Baradur. Hier und im umliegenden geheimnisvollen Wald begegnen Euch viele Rätsel und Feinde
 
 
-
-Zur Zeit gibt es in Baradur die folgenden Fraktionen.
+Zur Zeit gibt es in Windora die folgenden Fraktionen.
 Aber vielleicht willst Du und Deine Freunde einen neue gründen.
 
 Als Spieler (SC) könnt Ihr der Fraktion „Orden der Sieben“ oder den Forschern („Kaiserliche“) beitreten. Grundsätzlich besteht auch die Möglichkeit eigenständige Rolle außerhalb dieser beiden Fraktionen zu erhalten (bei Interesse schreibt uns eine Mail).
 
-Die Stadt Baradur gehört zum Reich des Kaisers, ist aber nicht immer mit allen Entscheidungen des Kaisers einverstanden. Nach Baradur haben alle Wesen Zugang, die sich an die Regeln der Stadt halten.  
+Die Stadt Windora gehört zum Reich des Kaisers, ist aber nicht immer mit allen Entscheidungen des Kaisers einverstanden. Nach Windora haben alle Wesen Zugang, die sich an die Regeln der Stadt halten.  
 
 Der Gemeinschaft der freien Bürger und der Stadtverwaltung steht der Bürgermeister, Sir Windi, vor. Zur Stadtverwaltung gehören u.a. die Stadtwache, die Taverne, das Lazarett, der Handel (darunter auch der Alchemist), die Feuerfrau und viele andere.
 

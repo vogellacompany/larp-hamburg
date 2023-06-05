@@ -19,9 +19,8 @@ background: /assets/images/homepage/story.jpg
 Wir sind eine Gruppe Jugendlicher und ein paar Erwachsene, die LARP (Live Action Roll Play) spielen. 
 Wir spielen im  Fantasy- und Mittelalter-Ambiente, ähnlich _Herr der Ringe_, sind also Krieger, Zauberer, Elfen, Orks und vieles mehr. Es gibt Fraktionen/Gilden. Wir treiben Handel, kämpfen mit Polsterwaffen, wirken Magie – und erleben spannende Abenteuer.
 
-Unsere LARPs finden unter dem Dach des Fantasy LARP-Vereins Norddeutschland e.V. statt.
-Organisatorische Infos findet in Kürze unter der Vereinsseite www.fantasy-larp.de
-Auf dieser Seite findet Ihr alle Intime-Infos, zu den Fraktionen und zum Plot.
+Unsere LARPs finden unter dem Dach des Fantasy LARP-Vereins Norddeutschland e.V. statt. Dort findet ihr 
+organisatorische Infos wie die [AGBs](https://fantasy-larp.de/info/agbs/). Auf unser Seite www.larp-hamburg.de findet Ihr alle Intime-Infos, zu den Fraktionen und zum Plot.
 
 Viele von Euch kennen die Indoor-Variante im _Drachenlabyrinth_ oder in der _Goblinstadt_. 
 So ein Spiel organisieren wir für draußen auf einem großen Gelände mit einem Wald und einem eigenem Dorf.
