@@ -12,7 +12,7 @@ Der nächste Termin ist am 04.11.2023.
 
 Bei Interesse, bitte anmelden unter https://fantasy-larp.de/
 
-Nachfragen gerne unter [Sir Windi](mailto:sirwindi@fantasy-larp.de)
+Nachfragen gerne unter [sirwindi@fantasy-larp.de](mailto:sirwindi@fantasy-larp.de)
 
 
 
