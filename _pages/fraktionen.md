@@ -6,7 +6,7 @@ toc: true
 toc_label: Unsere Fraktionen im Spiel
 toc_sticky: true
 ---
-Das Kaiserreich von Windora ist groß. Im Osten liegt - weit weg von der Hauptstadt des Reiches - tief im Wald das Städtchen Baradur. Hier und im umliegenden geheimnisvollen Wald begegnen Euch viele Rätsel und Feinde
+Das Kaiserreich von Windora ist groß. Im Osten liegt - weit weg von der Hauptstadt des Reiches - tief im Wald das Städtchen Baradir. Hier und im umliegenden geheimnisvollen Wald begegnen Euch viele Rätsel und Feinde
 
 
 Zur Zeit gibt es in Windora die folgenden Fraktionen.
@@ -41,11 +41,11 @@ Unsere Gebete findet ihr [hier](/fraktionen/sieben/).
 # Die Forscher
 
 Wir sind eine Gruppe aus Forscher:innen und Paladinen die vom Kaiser ausgesandt wurden um den einzig
-wahren Glauben zu vertreten. Dem Kaiser wurden immer häufiger komische Aktivitäten nähe Baradurs
+wahren Glauben zu vertreten. Dem Kaiser wurden immer häufiger komische Aktivitäten nähe Baradirs
 geschildert, weshalb er uns schickte.
 
 Der Verdacht unsererseits, dass es sich dabei um Aktivitäten des _Orden der Sieben_ handelt, bestätigte
-sich, als wir eben jene in Baradur antrafen. Es stellte sich heraus, dass sie hierher gekommen waren um
+sich, als wir eben jene in Baradir antrafen. Es stellte sich heraus, dass sie hierher gekommen waren um
 ein Ritual durchzuführen. Dieses ging jedoch gnadenlos schief und wir wurden zeuge von einem Desaster
 einer unvorstellbaren Dimension. Statt einer Kraft oder einem ,,Gott“ erblickten wir ein komisches
 Wesen. Wir nennen ihn Mutant, der Orden der Sieben nennt ihn Dämon. Aber was es wirklich ist, das
@@ -112,7 +112,7 @@ Eine Sache sagen wir Euch also, geh nicht ohne Geld auf die Straßen. Wenn Ihr k
 
 ## Die Geschichte des Lazarett: 
 
-Das Lazarett hat mit seinem zentralen Platz, am Marktplatz, eine gute Position für alle Bewohner und Besucher des Dorfes Baradur. 
+Das Lazarett hat mit seinem zentralen Platz, am Marktplatz, eine gute Position für alle Bewohner und Besucher des Dorfes Baradir. 
 Die Heiler des Dorfes tragen die Farben weiß und blau. 
 Auf der weißen Standarte der Heiler ist ein roter Tropfen. 
 
@@ -121,7 +121,7 @@ Jedoch werden zumeist kleinere Wunden oder Schnitte und Krankheiten die im Allta
 Nur selten kommt es zur behandlung schwerer Wunden oder Vergiftungen, jedoch auch hier finden die Patienten bei den Heilern Rat und Unterstützung. 
 
 Das Lazarett wird durch Heiler der Akademie "lupus remedium" versorgt und unterhalten. 
-Aus dem Osten gesannt und verbringen einen Teil ihrer Ausbildung in Baradur, um praktische Erfahrung zu sammeln. 
+Aus dem Osten gesannt und verbringen einen Teil ihrer Ausbildung in Baradir, um praktische Erfahrung zu sammeln. 
 Im Laufe ihrer Ausbildung müssen die Heiler erst die Schriften und das Wissen der Akademie in der Theorie erlernen und danach ein Jahr mit praktischer Arbeit als Protege verbringen, bevor er/sie als Heiler aufsteigen und sich des Abzeichen der Akademie als würdig erweisen. 
 
 

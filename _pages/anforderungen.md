@@ -12,7 +12,7 @@ Die nächsten Termine findest du [hier](/termine),
 
 Vorerfahrung ist nicht erforderlich.
 
-Zustäzlich wäre ein Latex-Schwert und einen dunklen Umhang/Kleidung hilfreich (kann ggf. auch ausgeliehen werden). 
+Zusätzlich wäre ein Latex-Schwert und einen dunklen Umhang/Kleidung hilfreich (kann ggf. auch ausgeliehen werden). 
 Festes Schuhwerk brauchst du auf jedem Fall.
 
 Natürlich ist am coolsten, wenn du dich richtig schön verkleidest, um deinen Charakter besser darstellen zu können.
