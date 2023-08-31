@@ -3,12 +3,10 @@ main:
     url: /anmeldung/
   - title: "Termine"
     url: /termine/
-  - title: "Nächstes Event"
-    url: /next/
   - title: "Vergangene Events"
     url: /events/
   - title: "Fraktionen"
-    url: /fraktionen/   
+    url: /fraktionen/
   - title: "Regeln"
     url: /regeln/
   - title: "Kontakt"
@@ -22,8 +20,7 @@ docs:
   - title: "Es geht rund"
     url: /anmeldung/
     children:
-    - title: "Posts"
-      url: /year-archive/
-    - title: "Regeln"
-      url: /regeln/
-  
+      - title: "Posts"
+        url: /year-archive/
+      - title: "Regeln"
+        url: /regeln/
