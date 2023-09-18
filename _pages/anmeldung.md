@@ -5,10 +5,7 @@ classes: wide
 permalink: /anmeldung/
 ---
 
-Unser nächstes LARP findet statt am Samstag, den 16. September um 13:00 statt. 
-
-Der nächste Termin ist am 04.11.2023.
-
+Unser nächstes LARP findet statt am Samstag, den 04.November 2023. um 13:00 statt. 
 
 Bei Interesse, bitte anmelden unter [Anmeldung](https://fantasy-larp.de/) 
 
