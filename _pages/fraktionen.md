@@ -6,7 +6,8 @@ toc: true
 toc_label: Unsere Fraktionen im Spiel
 toc_sticky: true
 ---
-Das Kaiserreich von Windora ist groß. Im Osten liegt - weit weg von der Hauptstadt des Reiches - tief im Wald das Städtchen Baradir. Hier und im umliegenden geheimnisvollen Wald begegnen Euch viele Rätsel und Feinde
+Das Kaiserreich von Windora ist groß. Im Osten liegt - weit weg von der Hauptstadt des Reiches - tief im Wald das Städtchen Baradir. 
+Hier und im umliegenden geheimnisvollen Wald begegnen Euch viele Rätsel und Feinde
 
 
 Zur Zeit gibt es in Windora die folgenden Fraktionen.
@@ -20,15 +21,18 @@ Der Gemeinschaft der freien Bürger und der Stadtverwaltung steht der Bürgermei
 
 # Orden der Sieben
 
+![image](/assets/images/banner/OrdenDerSieben.jpg)
+
+
 Der Orden der Sieben ist ein Zusammenschluss von Priestern und Paladinen, die die einzigen Götters huldigen, die die Welt kennt: die mächtigen Sieben.
 
 * Göttervatter = Kirano
 * Elementar = Jenefa
-* Schatten\ Chaos= Kush
-* Natur\Liebe = Ramora
-* Gleichgewicht\Ordnung = Sediron
-* Krieg\Tot = Medoc
-* Heilung\Erfrischung = NINA
+* Schatten/Chaos= Kush
+* Natur/Liebe = Ramora
+* Gleichgewicht/Ordnung = Sediron
+* Krieg/Tot = Medoc
+* Heilung/Erfrischung = NINA
 
 Wir representieren den Willen der mächtigen Sieben und stehen für das Gleichgewicht der Welt.
 Wir verdammen und bekämpfen jeglichen Kontakt mit dem Inferno, die Dämonbrut soll weiterhin im Höllenfeuer schmoren.
@@ -39,6 +43,8 @@ Unsere Gebete findet ihr [hier](/fraktionen/sieben/).
 
 
 # Die Forscher
+
+![image](/assets/images/banner/KaiserlicheForscher.jpg)
 
 Wir sind eine Gruppe aus Forscher:innen und Paladinen die vom Kaiser ausgesandt wurden um den einzig
 wahren Glauben zu vertreten. Dem Kaiser wurden immer häufiger komische Aktivitäten nähe Baradirs
@@ -59,6 +65,10 @@ Also ist bei uns für jeden Platz.
 
 
 # Jünger des Zwielichts
+
+![image](/assets/images/banner/Zwielicht.jpg)
+
+
 Aus den Überbliebenen der alten Chaos Armee und neuen Verbündeten, die zwischen Licht und Schatten wandeln, formt sich im Zwielicht eine neue Macht... düster, geheimnisvoll, undefinierbar... Sie streben nach MACHT und EINFLUSSNAHME auf alle, die in ihre Nähe geraten...
 
 

@@ -10,7 +10,7 @@ https://jekyllrb.com/docs/installation/ubuntu/
 
 # Starten des lokalen Webservers
 
-Um die Webseite anzuzeigen, muss der folgende Befehl eingegeben im Verzeichnis ~/git/larp-hamburg werden:
+Um die Webseite anzuzeigen, muss ein folgende Befehl eingegeben im Verzeichnis ~/git/larp-hamburg werden:
 
 Dazu öffnet man ein Terminal   (Windows Taste und dann Terminal schreiben)
 
