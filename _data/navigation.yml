@@ -14,7 +14,8 @@ main:
   - title: "Impressum"
     url: /impressum/
   - title: "Datenschutz"
-    url: /datenschutz/
+  - title: "Npc "
+    url: /npc/
 
 docs:
   - title: "Es geht rund"
