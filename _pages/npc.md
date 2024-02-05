@@ -7,6 +7,8 @@ toc_label: NPC
 toc_sticky: true
 ---
 
+Wir sind das Non-Player-Character (NPC) Team.
+
 ## Perseus
 ![image](/assets/images/Npc/Ben.jpg)
 ## Sir Windi
