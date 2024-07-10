@@ -10,10 +10,11 @@ pipeline {
             stages {
                 stage('Deploy to server') {
                     steps {
+                        def remoteUser = 'jenkins'
                         def remoteServer = "${remoteUser}@${params.REMOTE_SERVER}"
 
-                        sh "rsync -rzvhP --delete _site/* jenkins@${remoteServer}:/var/www/vhosts/larp-hamburg/staging"
-                        sh "ssh jenkins@${remoteServer} rsync -rzvhP --delete /var/www/vhosts/larp-hamburg/staging/* /var/www/vhosts/larp-hamburg/www/"
+                        sh "rsync -rzvhP --delete _site/* ${remoteServer}:/var/www/vhosts/larp-hamburg/staging"
+                        sh "ssh ${remoteServer} rsync -rzvhP --delete /var/www/vhosts/larp-hamburg/staging/* /var/www/vhosts/larp-hamburg/www/"
                     }
                 }
             }
