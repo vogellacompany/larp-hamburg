@@ -34,11 +34,11 @@ https://jekyllcodex.org/without-plugin/image-gallery/
 
 # Auf den live Server aufspielen
 
-Eine neue Version der Webseite wird automatisch gebaut sobal ein neuer Commit auf den `main` gepusth wird.
+Eine neue Version der Webseite wird automatisch gebaut sobald ein neuer Commit auf den `main` gepusht wird.
 Dies geschieht durch die GitHub action in `.github/workflows/build.yml`.
 
-Zum publizieren einer neuen Version muss ein build unter https://bertrax.vogella.com/job/larp-hamburg/ gestartet werden.
+Zum Publizieren einer neuen Version muss ein build unter https://bertrax.vogella.com/job/larp-hamburg/ gestartet werden.
 Hiezu unter der genannten URL auf den Button `Build with Parameters` drücken.
-Wenn man auf das live System publizieren möchte dann einfach auf `Build` drücken, ohne das `Remote Server` Parameter zu ändern.
+Wenn man auf das live System publizieren möchte dann, einfach auf `Build` drücken, ohne das `Remote Server` Parameter zu ändern.
 
 Der Job https://bertrax.vogella.com/job/larp-hamburg/ wird über das `Jenkinsfile` auf dem `build` Branch definiert.
